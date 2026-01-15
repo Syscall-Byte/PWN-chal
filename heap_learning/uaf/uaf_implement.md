@@ -8,7 +8,7 @@
 checksec ./uaf_implement
 ```
 查询程序保护，如下图
-![[Pasted image 20260115215312.png]]
+
 可以发现保护全开
 
 ### 分析程序
